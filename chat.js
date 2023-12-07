@@ -1,12 +1,13 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyA8Cl0qHRzbMMO9fvDQrjRPagidYDIZqmg",
-    authDomain: "bate-papo-3f779.firebaseapp.com",
-    databaseURL: "https://bate-papo-3f779-default-rtdb.firebaseio.com",
-    projectId: "bate-papo-3f779",
-    storageBucket: "bate-papo-3f779.appspot.com",
-    messagingSenderId: "1073264677106",
-    appId: "1:1073264677106:web:3cfb02dc35a5647d06c06b"
-  };
+  apiKey: "AIzaSyA21y0CO0RtMGElW9NxIq6wZ5ak162Liaw",
+  authDomain: "testekwitter.firebaseapp.com",
+  databaseURL: "https://testekwitter-default-rtdb.firebaseio.com",
+  projectId: "testekwitter",
+  storageBucket: "testekwitter.appspot.com",
+  messagingSenderId: "364995332721",
+  appId: "1:364995332721:web:0de8c39165ffdfe29269d0",
+  measurementId: "G-09MT67BKZQ"
+};
 
    
 firebase.initializeApp(firebaseConfig);
